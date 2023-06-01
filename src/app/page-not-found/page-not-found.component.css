@@ -1,0 +1,12 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Bebas+Neue&family=Chivo+Mono:ital,wght@1,200&family=Cormorant+Garamond:wght@300&family=Dancing+Script&family=Great+Vibes&family=Italianno&family=Open+Sans:wght@300&family=Overpass:wght@100&family=Pacifico&family=Rubik+Gemstones&family=Satisfy&family=Sevillana&family=Seymour+One&family=Tilt+Prism&family=Ubuntu&family=Yeon+Sung&display=swap');
+
+
+
+
+.error{
+    background-color: rgba(209, 209, 4, 0.888);
+    width: 100%;
+    height: 700px;
+    font-family: 'Tilt Prism', cursive;
+}
